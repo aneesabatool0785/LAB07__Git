@@ -12,4 +12,5 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 # changed print("Fahrenheit:", fahrenheit) to
+print("Changing celcius to fahrenheit\n")
 print("Temperature in Fahrenheit:", fahrenheit)
